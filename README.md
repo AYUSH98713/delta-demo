@@ -1,6 +1,6 @@
 # delta-demo
 Git and Github class.
 # Teacher
-aradhna mam
+Aradhna mam
 # student 
-ayush 
+Ayush 
